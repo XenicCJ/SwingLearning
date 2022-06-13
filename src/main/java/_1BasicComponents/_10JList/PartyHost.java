@@ -1,4 +1,4 @@
-package _10JList;
+package _1BasicComponents._10JList;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

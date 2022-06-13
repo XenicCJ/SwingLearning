@@ -1,4 +1,4 @@
-package _17JProgressBar;
+package _1BasicComponents._17JProgressBar;
 
 import javax.swing.*;
 import java.awt.event.MouseAdapter;

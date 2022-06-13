@@ -1,4 +1,4 @@
-package _14JPopupMenu;
+package _1BasicComponents._14JPopupMenu;
 
 import javax.swing.*;
 import java.awt.event.*;

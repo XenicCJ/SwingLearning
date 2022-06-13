@@ -1,6 +1,4 @@
-package _11JOptionPane;
-
-import jdk.nashorn.internal.scripts.JO;
+package _1BasicComponents._11JOptionPane;
 
 import javax.swing.*;
 

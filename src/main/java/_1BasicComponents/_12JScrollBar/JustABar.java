@@ -1,4 +1,4 @@
-package _12JScrollBar;
+package _1BasicComponents._12JScrollBar;
 
 import javax.swing.*;
 import java.awt.event.AdjustmentEvent;

@@ -1,4 +1,4 @@
-package _08JComboBox;
+package _1BasicComponents._08JComboBox;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

@@ -1,4 +1,4 @@
-package _01JButton;
+package _1BasicComponents._01JButton;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

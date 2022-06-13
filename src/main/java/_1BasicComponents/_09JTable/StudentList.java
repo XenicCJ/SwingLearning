@@ -1,4 +1,4 @@
-package _09JTable;
+package _1BasicComponents._09JTable;
 
 import javax.swing.*;
 import javax.swing.event.ListSelectionEvent;

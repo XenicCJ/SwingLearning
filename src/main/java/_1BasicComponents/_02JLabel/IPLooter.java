@@ -1,4 +1,4 @@
-package _02JLabel;
+package _1BasicComponents._02JLabel;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

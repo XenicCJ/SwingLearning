@@ -1,4 +1,4 @@
-package _04JTextArea;
+package _1BasicComponents._04JTextArea;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

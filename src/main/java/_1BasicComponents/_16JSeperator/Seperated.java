@@ -1,4 +1,4 @@
-package _16JSeperator;
+package _1BasicComponents._16JSeperator;
 
 import javax.swing.*;
 import java.awt.*;

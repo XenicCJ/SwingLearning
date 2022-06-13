@@ -1,4 +1,4 @@
-package _20JTabbedPane;
+package _2Panes._01JTabbedPane;
 
 import javax.swing.*;
 

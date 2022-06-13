@@ -1,4 +1,4 @@
-package _18JTree;
+package _1BasicComponents._18JTree;
 
 import javax.swing.*;
 import javax.swing.tree.DefaultMutableTreeNode;

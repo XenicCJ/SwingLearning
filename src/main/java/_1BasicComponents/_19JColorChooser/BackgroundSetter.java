@@ -1,4 +1,4 @@
-package _19JColorChooser;
+package _1BasicComponents._19JColorChooser;
 
 import javax.swing.*;
 import java.awt.*;

@@ -1,9 +1,6 @@
-package _07JRadioButton;
-
-import javafx.scene.control.RadioButton;
+package _1BasicComponents._07JRadioButton;
 
 import javax.swing.*;
-import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 

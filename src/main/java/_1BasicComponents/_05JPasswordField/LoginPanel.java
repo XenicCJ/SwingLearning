@@ -1,4 +1,4 @@
-package _05JPasswordField;
+package _1BasicComponents._05JPasswordField;
 
 import javax.swing.*;
 import java.awt.*;

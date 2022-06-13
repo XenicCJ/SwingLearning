@@ -1,4 +1,4 @@
-package _03JTextField;
+package _1BasicComponents._03JTextField;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

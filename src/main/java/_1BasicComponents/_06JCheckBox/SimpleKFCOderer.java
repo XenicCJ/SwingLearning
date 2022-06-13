@@ -1,4 +1,4 @@
-package _06JCheckBox;
+package _1BasicComponents._06JCheckBox;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

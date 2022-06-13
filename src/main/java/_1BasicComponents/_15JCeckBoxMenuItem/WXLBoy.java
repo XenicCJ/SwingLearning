@@ -1,4 +1,4 @@
-package _15JCeckBoxMenuItem;
+package _1BasicComponents._15JCeckBoxMenuItem;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

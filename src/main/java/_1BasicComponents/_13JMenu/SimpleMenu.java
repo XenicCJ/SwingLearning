@@ -1,4 +1,4 @@
-package _13JMenu;
+package _1BasicComponents._13JMenu;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
